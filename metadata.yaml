@@ -1,0 +1,30 @@
+_repo: Oscar-the-Detective--Or-Dudie-Dunne-The-Exquisite-Detective_19335
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19335-h/images/cover.png
+creator:
+  author:
+    agent_name: Old Sleuth
+    aliases:
+    - Sleuth, Old
+    - Halsey, Harlan Page
+    - Pastor, Tony
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1747'
+    url: http://www.gutenberg.org/2009/agents/1747
+description: ''
+gutenberg_issued: '2006-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: Oscar the Detective; Or, Dudie Dunne, The Exquisite Detective
+url: http://www.gutenberg.org/ebooks/19335
